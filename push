@@ -1,5 +1,5 @@
 echo This is the localk push
-rm -rf x86_obj framecell
+rm -rf obj_x86 framecell
 git add .
 git commit -m "No change history kept"
 git push origin main
